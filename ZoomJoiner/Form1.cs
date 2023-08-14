@@ -152,7 +152,7 @@ namespace ZoomJoiner
             buttonpad.Visible = false;
             button1.Visible = false;
             button7.Visible = false;
-            ButtonTo.Location = new Point(256, 261);C
+            ButtonTo.Location = new Point(256, 261);
 
         }
 
